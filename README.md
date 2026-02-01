@@ -1,5 +1,8 @@
 # Urban Traffic Flow Forecasting - Porto
 
+> [!NOTE]
+> This is a brief summary of the project. For detailed information, full architecture explanation, and performance analysis, please refer to the [**Project Report**](report.pdf).
+
 This project aims to solve a Kaggle competition challenge: predicting road traffic congestion levels in the city of Porto using historical data. Following the **CRISP-DM** methodology, the project involves extensive data preprocessing, feature engineering, and the implementation of advanced ensemble machine learning models.
 
 ## Context and Objectives
@@ -78,4 +81,5 @@ Here is an overview of the files and directories in this repository:
     *   `report.pdf`: Final project report detailing methodologies, results, and conclusions.
 *   **Files**:
     *   `requirements.txt`: Python dependencies required to run the notebooks.
+
     *   `submission.csv`: The final generated CSV file for submission to Kaggle.
